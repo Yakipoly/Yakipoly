@@ -11,16 +11,10 @@ I'm a fullstack developer
 ### Skills
 
 
-<style>
-    .icon-bg {
-        background-color: white;
-        padding: 5px;
-        border-radius: 50%;
-        margin: 5px;
-    }
-</style>
+
 
 <p align="left">
+<style> .icon-bg { background-color: white; padding: 5px; border-radius: 50%; margin: 5px; } </style>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer" class="icon-bg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" class="icon-bg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FASTAPI" /></a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer" class="icon-bg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
